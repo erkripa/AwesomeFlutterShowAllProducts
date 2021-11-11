@@ -1,0 +1,5 @@
+{
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "explorer.autoReveal": false,
+    "notebook.diff.enablePreview": false
+}
